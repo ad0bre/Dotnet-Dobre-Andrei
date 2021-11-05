@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\Challenge-2\\Dobre-Andrei\\Dobre-Andrei.csproj",
+      "projectUniqueName": "C:\\Git\\Dotnet-Dobre-Andrei\\Dobre-Andrei\\Dobre-Andrei.csproj",
       "projectName": "Dobre-Andrei",
-      "projectPath": "C:\\Git\\Challenge-2\\Dobre-Andrei\\Dobre-Andrei.csproj",
+      "projectPath": "C:\\Git\\Dotnet-Dobre-Andrei\\Dobre-Andrei\\Dobre-Andrei.csproj",
       "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\Challenge-2\\Dobre-Andrei\\obj\\",
+      "outputPath": "C:\\Git\\Dotnet-Dobre-Andrei\\Dobre-Andrei\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

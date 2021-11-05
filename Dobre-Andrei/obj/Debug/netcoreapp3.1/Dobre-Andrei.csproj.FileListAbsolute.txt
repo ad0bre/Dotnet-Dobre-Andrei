@@ -1,0 +1,14 @@
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\bin\Debug\netcoreapp3.1\Dobre-Andrei.exe
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\bin\Debug\netcoreapp3.1\Dobre-Andrei.deps.json
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\bin\Debug\netcoreapp3.1\Dobre-Andrei.runtimeconfig.json
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\bin\Debug\netcoreapp3.1\Dobre-Andrei.runtimeconfig.dev.json
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\bin\Debug\netcoreapp3.1\Dobre-Andrei.dll
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\bin\Debug\netcoreapp3.1\Dobre-Andrei.pdb
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\obj\Debug\netcoreapp3.1\Dobre-Andrei.csproj.AssemblyReference.cache
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\obj\Debug\netcoreapp3.1\Dobre-Andrei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\obj\Debug\netcoreapp3.1\Dobre-Andrei.AssemblyInfoInputs.cache
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\obj\Debug\netcoreapp3.1\Dobre-Andrei.AssemblyInfo.cs
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\obj\Debug\netcoreapp3.1\Dobre-Andrei.csproj.CoreCompileInputs.cache
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\obj\Debug\netcoreapp3.1\Dobre-Andrei.dll
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\obj\Debug\netcoreapp3.1\Dobre-Andrei.pdb
+C:\Git\Dotnet-Dobre-Andrei\Dobre-Andrei\obj\Debug\netcoreapp3.1\Dobre-Andrei.genruntimeconfig.cache
